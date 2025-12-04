@@ -4,6 +4,7 @@ __pycache__/
 
 # Data Images
 *.jpg
+*.csv
 
 # Databases
 *.db
