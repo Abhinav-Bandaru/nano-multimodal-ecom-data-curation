@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+numpy
+pandas
+scikit-learn
+pillow
+tqdm
